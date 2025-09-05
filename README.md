@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data, CyberSecurity projects
 - 📫 You can reach me by email : luong7556@saskpolytech.ca
 - 😄 Pronouns: Im the An
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Bill Gates’ own house was designed on, guess what, on a Mac PC.
 
 <!---
 Andres-lng/Andres-lng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
